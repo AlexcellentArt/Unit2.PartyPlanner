@@ -2,3 +2,13 @@ form {
     display: flex;
     flex-direction: column;
 }
+
+.valid {
+    background-color: springgreen;
+}
+.invalid {
+    background-color: lightcoral;
+}
+.neutral {
+    background-color: white;
+}
